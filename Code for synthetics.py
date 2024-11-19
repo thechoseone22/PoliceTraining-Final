@@ -3,10 +3,11 @@ import random
 import pandas as pd
 import unicodedata
 import re
-import Gemini_api
+from dotenv import load_dotenv
+import os
 
 # API key
-genai.configure(api_key=Gemini_api.GEMINI_KEY)
+API_KEY = os.getenv("GEMINI_KEY")
 
 # Model
 model = genai.GenerativeModel("gemini-1.5-flash")
