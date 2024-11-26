@@ -5,7 +5,7 @@
 This project focuses on developing and demonstrating a **De-escalation Model** aimed at analyzing and predicting outcomes of law enforcement interactions. The model is trained on custom datasets, using text-based features derived from synthetic transcripts of interactions. The aim is to identify successful de-escalation strategies of law enforcement officers.
 
 **Team Members**: Brianna, Derek, Eric, Josh  
-**Project 2**
+**Final project**
 ---
 
 ## Objectives
