@@ -8,6 +8,10 @@ This project focuses on developing and demonstrating a **De-escalation Model** a
 **Final project**
 ---
 
+## Use and Downloads
+- Please download the datasets and necessary files from the datasets folder above to use our datasets. Run the Code for synthetics file if you want to generate your own data. We already have a csv file there for you to use in the folder.  We apologize if there are absolute paths for csv file access in our notebooks, please use relative paths to access them if needed, thank you.
+
+
 ## Objectives
 
 1. **Develop a Predictive Model**:
